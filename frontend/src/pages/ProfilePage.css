@@ -1,0 +1,25 @@
+.profilePage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 150px;
+}
+
+.pictureBox {
+}
+
+.profilePic {
+  height: 300px;
+  border-radius: 150px;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+}
+
+.followers {
+  display: flex;
+  justify-content: space-between;
+}
+.aboutUser {
+  width: 220px;
+}
